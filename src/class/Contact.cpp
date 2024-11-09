@@ -1,5 +1,5 @@
 // Contato.cpp
-#include "Contato.h"
+    #include "Contato.h"
 
 // Construtores
 Contato::Contato() : nome(""), telefone(""), email(""), favorito(false) {}

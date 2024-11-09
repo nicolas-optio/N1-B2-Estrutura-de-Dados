@@ -1,6 +1,6 @@
 // main.cpp
 #include <iostream>
-#include "ArvoreAVL.h"
+#include "AVLTree/ArvoreAVL.h"
 
 void exibirMenu() {
     std::cout << "==== Gerenciador de Contatos ====\n";

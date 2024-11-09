@@ -2,7 +2,7 @@
 #ifndef NODOAVL_H
 #define NODOAVL_H
 
-#include "Contato.h"
+#include "Contact.h" // Alterado de "Contato.h" para "Contact.h"
 
 class NodoAVL {
 public:
